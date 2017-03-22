@@ -1,3 +1,4 @@
+package exercicio3;
 public class Termometro{
 	//Atributos	
 	private double temperatura;

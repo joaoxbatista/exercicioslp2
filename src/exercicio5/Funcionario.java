@@ -1,3 +1,4 @@
+package exercicio5;
 public class Funcionario extends Pessoa{
 	
 	//Atributos

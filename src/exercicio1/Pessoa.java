@@ -1,3 +1,5 @@
+package exercicio1;
+
 public class Pessoa{
 
 	private int pontos;

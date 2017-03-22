@@ -1,3 +1,4 @@
+package exercicio5;
 public class Porteiro extends Funcionario{
 	
 	public Porteiro(){

@@ -1,3 +1,4 @@
+package exercicio5;
 public class Endereco{
 	//Atributos	
 	private String estado;

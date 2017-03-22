@@ -1,3 +1,4 @@
+package exercicio5;
 public class Recepcionista extends Funcionario{
 
 	public Recepcionista(){

@@ -1,3 +1,4 @@
+package exercicio5;
 public class Pessoa{
 	//Atributos
 	protected String nome;

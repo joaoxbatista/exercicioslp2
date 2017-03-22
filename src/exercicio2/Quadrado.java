@@ -1,3 +1,5 @@
+package exercicio2;
+
 public class Quadrado{
 	//Atributos
 	private double lado;

@@ -1,3 +1,4 @@
+package exercicio4;
 public class Empregado extends Pessoa{
 	//Atributos
 	private double salario;

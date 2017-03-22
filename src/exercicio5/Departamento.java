@@ -1,3 +1,5 @@
+package exercicio5;
+
 import java.util.*;
 
 public class Departamento{
